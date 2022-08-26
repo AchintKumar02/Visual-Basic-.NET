@@ -1,0 +1,17 @@
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\bin\Debug\net6.0-windows\First_VB_Program.exe
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\bin\Debug\net6.0-windows\First_VB_Program.deps.json
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\bin\Debug\net6.0-windows\First_VB_Program.runtimeconfig.json
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\bin\Debug\net6.0-windows\First_VB_Program.dll
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\bin\Debug\net6.0-windows\First_VB_Program.pdb
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\obj\Debug\net6.0-windows\First_VB_Program.vbproj.AssemblyReference.cache
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\obj\Debug\net6.0-windows\First_VB_Program.Form1.resources
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\obj\Debug\net6.0-windows\First_VB_Program.vbproj.GenerateResource.cache
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\obj\Debug\net6.0-windows\First_VB_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\obj\Debug\net6.0-windows\First_VB_Program.AssemblyInfoInputs.cache
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\obj\Debug\net6.0-windows\First_VB_Program.AssemblyInfo.vb
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\obj\Debug\net6.0-windows\First_VB_Program.vbproj.CoreCompileInputs.cache
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\obj\Debug\net6.0-windows\First_VB_Program.dll
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\obj\Debug\net6.0-windows\refint\First_VB_Program.dll
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\obj\Debug\net6.0-windows\First_VB_Program.pdb
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\obj\Debug\net6.0-windows\First_VB_Program.genruntimeconfig.cache
+C:\Users\kumar\source\repos\First_VB_Program\First_VB_Program\obj\Debug\net6.0-windows\ref\First_VB_Program.dll
